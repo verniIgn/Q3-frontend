@@ -1,0 +1,6 @@
+{
+  "presets": ["es2015", "react-native", "react-native-dotenv"],
+  "plugins": [["babel-plugin-dotenv", {
+  	"replacedModuleName": "babel-dotenv"
+  }]] 
+}
